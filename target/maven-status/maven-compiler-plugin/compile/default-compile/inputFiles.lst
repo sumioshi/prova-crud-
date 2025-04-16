@@ -1,0 +1,11 @@
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/App.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/controller/PessoaController.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/controller/TrabalhoController.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/dto/PessoaDTO.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/dto/TrabalhoDTO.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/model/Pessoa.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/model/Trabalho.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/repository/PessoaRepository.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/repository/TrabalhoRepository.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/service/PessoaService.java
+/home/rodrigosumioshi/Documentos/Eng Software/prova-crud/src/main/java/com/prova/crud/service/TrabalhoService.java
