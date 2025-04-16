@@ -1,7 +1,4 @@
 # Projeto CRUD - Prova
-
-Olá! Bem-vindo(a) ao projeto CRUD da disciplina Tópicos em Programação. Aqui você pode gerenciar dados de pessoas e trabalhos de forma simples e prática.
-
 ## Como Executar a Aplicação
 
 1. Certifique-se de ter o **Java 21** e o **Maven** instalados.
@@ -40,4 +37,3 @@ Olá! Bem-vindo(a) ao projeto CRUD da disciplina Tópicos em Programação. Aqui
 - **Serviços**: Lógica de negócios.
 - **Repositórios**: Acesso ao banco com Spring Data JPA.
 
-Esperamos que goste de explorar o projeto! 😊
